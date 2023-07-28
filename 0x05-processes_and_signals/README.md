@@ -1,5 +1,3 @@
-I started 7-highlander in Terminal #0 and then run 8-beheaded_process in terminal #1 and we can see that the 7-highlander has been killed.PROJECTS: 0x05. Processes and signals
-
 TASKS
 
 0. What is my PID
